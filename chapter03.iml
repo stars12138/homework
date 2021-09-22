@@ -17,6 +17,9 @@
         <fileset id="fileset" name="ApplicationContext" removed="false">
           <file>file://$MODULE_DIR$/src/com/itheima/factorybean/applicationContext.xml</file>
         </fileset>
+        <fileset id="fileset2" name="ApplicationContext (2)" removed="false">
+          <file>file://$MODULE_DIR$/src/com/itheima/aspectj/annotation/applicationContext.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
