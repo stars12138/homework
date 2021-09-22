@@ -9,6 +9,14 @@
         <webroots>
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="ApplicationContext" removed="false">
+          <file>file://$MODULE_DIR$/src/com/itheima/factorybean/applicationContext.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
