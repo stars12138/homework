@@ -17,6 +17,7 @@ public class JdkProxy implements InvocationHandler {
 
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+        MyAspect myAspect=new MyAspect();
         return null;
     }
 }
