@@ -2,7 +2,7 @@ package com.itheima.aspect;
 
 public class MyAspect {
     public void check_Permissions(){
-        System.out.println("模拟检查权限...");
+        System.out.println("模拟检查权限....");
     }
     public void log(){
         System.out.println("模拟日志记录...");
